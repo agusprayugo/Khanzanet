@@ -1,0 +1,795 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antvnew_small.png" group-title="LOKAL",ANTV
+http://10.10.40.249:9981/stream/channel/4c78ce628dcee459522c8c39e2f9dd42?ticket=d4a960902fac283c6ce480ba7b7f372f06f06af6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL",SCTV
+http://10.10.40.249:9981/stream/channel/6eb52ce4860eef7529e63a4bd68ff3a3?ticket=2dc5b92815d79353bbf46228b110c20260dd2183
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" group-title="LOKAL",SCTV HD
+http://10.10.40.249:9981/stream/channel/700aba8665b1b25e4625bee5b454cfa4?ticket=85d383d3d3407a2e4c6967e67dcb04adf6c8b8ff
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL",INDOSIAR
+http://10.10.40.249:9981/stream/channel/359442ca60e69594840a35e15bbac29e?ticket=4e3afbdcc5e084e615f68038a75f1fd2ffd86751
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" group-title="LOKAL",INDOSIAR HD
+http://10.10.40.249:9981/stream/channel/1f340af7e413bcae1b842c37b76f3c0d?ticket=01c7b4eb926b28971c0254b3ff9929397c464c6a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="LOKAL",MOJI HD
+http://10.10.40.249:9981/stream/channel/93267bd50634eba6a3fba7f66fe747d0?ticket=1a388bb5490a6426279b624f084b13950f7c1354
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="LOKAL",TRANS 7
+http://10.10.40.249:9981/stream/channel/42ac7ca251655f94324ee5f0d0865d91?ticket=9ec7e34fb5e3ab5e8b4a885b32c2380d35af6d1f
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="LOKAL",TRANS TV
+http://10.10.40.249:9981/stream/channel/2b97cfc3ef9872086baccd3e49907c05?ticket=6d98d77326e38351085e0893893de5612c4da649
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_rcti_hd.png" group-title="LOKAL",RCTI HD
+http://10.10.40.249:9981/stream/channel/42abcaa32c160e67f8ab500783f5a286?ticket=85b206b7be467faf6131cdfafbf2a7dec42c518e
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_gtv_hd.png" group-title="LOKAL",GTV HD
+http://10.10.40.249:9981/stream/channel/3c853341912525d8d6c92dd5c9b791e0?ticket=b04470930cc91ae2cb0ae91fbd86bc21a881e18a
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/logo_mnc_hd.png" group-title="LOKAL",MNCTV HD
+http://10.10.40.249:9981/stream/channel/6997c339b2d6d9c6f3edc908573f6ffa?ticket=c1dac5b97eeacab5d6154efac0c71ac25d3fb293
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL",INEWS
+http://10.10.40.249:9981/stream/channel/e7e7d1e9ad9d826798710883d894c957?ticket=ace470f2e35bd875b2dcb3fbe7aa724818f75131
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="LOKAL",INEWS HD
+http://10.10.40.249:9981/stream/channel/b2e74594ccc6cf0823ae5bdf5bca85e0?ticket=d43d08037c3f738ebe178a056542c6feba1400b0
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_rtv_ver1.png" group-title="LOKAL",RTV
+http://10.10.40.249:9981/stream/channel/0b3e543b90c0e80aa795280c0ba8637f?ticket=687ed2325e2cfcfd7981934d08c8a4b69d186a4f
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="LOKAL",NET
+http://10.10.40.249:9981/stream/channel/dc7ab82707eb44351920eafdb8c3e484?ticket=24fd0577186b1be4d1eea3d3e4f76bf183219395
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="LOKAL",KOMPAS TV
+http://10.10.40.249:9981/stream/channel/6fe4fa964335f6ba47925db5aa97077c?ticket=b00707c7ecaf007a1779990e4e5b60b2573ce49d
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="LOKAL",TVONE
+http://10.10.40.249:9981/stream/channel/3a951d0d6322bbf6301052c024fafc00?ticket=5d8a32d9a38c14bc541422192c8d10132575ca70
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_metrotv_ver1.png" group-title="LOKAL",METRO TV
+http://10.10.40.249:9981/stream/channel/e7a27bf8e40bbc4acbfef235cd1db7f9?ticket=4b1a6de610febc9b59f2b0dd630d5e8f9a5fa7fe
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL",TVRI
+http://10.10.40.249:9981/stream/channel/d69b94742beb32a2790b2a353fd06238?ticket=6078f42bf012b0b53ac74189debd2ea6fc785f9e
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_beritasatu_ver4.png" group-title="LOKAL",BTV
+http://10.10.40.249:9981/stream/channel/917e26dd474292fc9e668c5913b01534?ticket=e6fc864fe7ed90a6a9496afb13649033f81af59e
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="LOKAL",CNN INDONESIA
+http://10.10.40.249:9981/stream/channel/2d4cfe470d75f882de5d6e54623b461b?ticket=9b66d77e6b57fba033b9f2bc1c10ce9783a99bae
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOKAL",CNBC INDONESIA
+http://10.10.40.249:9981/stream/channel/948c4d92b4acf832bf0fb95eab877095?ticket=54f338e757e2a10fc0d2233a32954724ab3f11f1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_balitv_big1.png" group-title="LOKAL",BALI TV
+http://10.10.40.249:9981/stream/channel/423dc0280cbe862d00f680bf9d7d5761?ticket=37cb901e2fc1536e4525e6c25507448215d3b9e6
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jtv_big1.png" group-title="LOKAL",JTV
+http://10.10.40.249:9981/stream/channel/f644f003a24a1418a9dafc9103a0f9ed?ticket=3986b0312eb4eb29aad2d6f5c82151daa28170c1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_jaktv_big1.png" group-title="LOKAL",JAK TV
+http://10.10.40.249:9981/stream/channel/9aff1a5a69b694228dd7d00294eee489?ticket=51d7321bf4a05a8418d4e6ede62eab3258fad875
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nusantara_TV_2015.png" group-title="LOKAL",NUSANTARA TV
+http://10.10.40.249:9981/stream/channel/b5b6468305f8a26857aea6027d4f13b0?ticket=550ee7e017a9e70f653fc1671b4aa866bd2c93d1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_antara_big1.png" group-title="LOKAL",ANTARA
+http://10.10.40.249:9981/stream/channel/c941ccd1060ef5a741b699442d40db1b?ticket=c620eec65730270ecf84a3ecf2e31cda94685a1c
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_daaitv_big1.png" group-title="LOKAL",DAAI TV
+http://10.10.40.249:9981/stream/channel/e2b238139320af9bcd6b0513e3b315b5?ticket=386ae75c277021d45896eec8131d66b34f1d00c3
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_insert_big1.png" group-title="LOKAL",INSERT
+http://10.10.40.249:9981/stream/channel/d492c2a028e0111194e2b2f8c22ce6da?ticket=9f3d2eb658c3a083765f9974c9c4eb5e5dfe1e32
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_big.png" group-title="LOKAL",DUNIA LAIN
+http://10.10.40.249:9981/stream/channel/d86fcc19c9bef5ff5ed271b45a1f3bd8?ticket=bf1bbd3c616f5d2b455083e500a4a1ac21183771
+#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1702533065-.png" group-title="LOKAL",JOWO
+http://10.10.40.249:9981/stream/channel/2b3503a65941f234de6cd96d9142397c?ticket=0343e9da40b617a70443274e74843c8772a743d7
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_atv_big.png" group-title="LOKAL",ATV
+http://10.10.40.249:9981/stream/channel/003eb7ecc4ea00e7aa9c5e3b5952b58b?ticket=e941e0e834d6936fa7b9266bd937c01f84d9e015
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG/revision/latest?cb=20210307072503" group-title="LOKAL",CITRA DRAMA
+http://10.10.40.249:9981/stream/channel/8a0c60a8a803a835a158e2c8ad0abf17?ticket=d321c014c4dfdd4247d79cedebadcf34ec018e25
+
+
+===
+
+#EXTINF:0 tvg-id="outdoor"  tvg-logo="http://images.indihometv.com/logo_indosiar_ver3.png" group-title="BACK-UP",INDOSIAR HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_sctv_ver3.png" group-title="BACK-UP",SCTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_transtv_ver2.png" group-title="BACK-UP",TRANSTV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_trans7_ver1.png" group-title="BACK-UP",TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_antv_big1.png" group-title="BACK-UP",ANTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_rtv_big1.png" group-title="BACK-UP",RTV SD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_net_big1.png" group-title="BACK-UP",NET HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_tvone_big1.png" group-title="BACK-UP",TVONE HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_metrotv_big1.png" group-title="BACK-UP",METRO TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_kompastv_big1.png" group-title="BACK-UP",KOMPAS HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_tvri_big1.png" group-title="BACK-UP",TVRI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_beritasatu_big1.png" group-title="BACK-UP",BTV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_tvri_big1.png" group-title="BACK-UP",TVRI World
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-id="outdoor" tvg-logo="http://images.indihometv.com/logo_cnnindonesia_big1.png" group-title="BACK-UP",CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w472172163_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="BACK-UP",CNBC INDONESIA
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1325163276_b384000_sleng.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://awscdn.detik.net.id/20detik3/m/images/tv_logo/detiktv.jpg?v=2024052323318" group-title="BACK-UP",DETIK TV
+https://vod.detik.com/mc/_definst_/smil:http/mc/video/detiktv/videoservice/AdminTV/2023/11/19/49d7019754274b5a9eb6536d3e79bdb8.smil/chunklist_w784631946_b1628001.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://images.indihometv.com/logo_tv9_small.png?v=2.0.0.13" group-title="BACK-UP",TV9 NUSANTARA
+https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_madutv.png" group-title="BACK-UP",MADU TV NUSANTARA
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+#EXTINF:0 tvg-id="outdoor" tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="BACK-UP",DAAI HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservesd-1.dens.tv/s/s182/index.m3u8
+
+
+
+===
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/65/Logo_Proliga.png",Live Proliga
+http://10.10.40.249:9981/stream/channel/343ce395d08676bdeecbfe82f0aa7329?ticket=2f154357ed338d537cfda882693a77d61621944b
+#EXTINF:-1 group-title="LIVE" tvg-logo="https://i.pinimg.com/originals/78/6a/69/786a69a4be8b4133d3187a86abe2b094.jpg",Live Timnas
+http://10.10.40.249:9981/stream/channel/bf6b47b03ca21a1f529a4700df1a53ae?ticket=e6194a012ef301670033d0ec70a009975e3c4aa6
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="LIVE" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://www.goldentvtech.site:80/images/63481a29faa15f661b6775fad43b9732.JPG",UEFA EURO 2024
+https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 group-title="LIVE" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="http://www.goldentvtech.site:80/images/63481a29faa15f661b6775fad43b9732.JPG",UEFA EURO 2024 (1)
+https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 xui-id="25389" tvg-id="" tvg-name="UEFA EURO 2024" tvg-logo="http://www.goldentvtech.site:80/images/63481a29faa15f661b6775fad43b9732.JPG" group-title="LIVE",UEFA EURO 2024 (3)
+http://10.10.40.249:9981/stream/channel/756bbe49739267eaef7feaf2b03436b0?ticket=61e1410c04a18825cfe2479dc05bad9ec4b15a13
+#EXTINF:-1 xui-id="25390" tvg-id="" tvg-name="UEFA EURO 2024 (2)" tvg-logo="http://www.goldentvtech.site:80/images/63481a29faa15f661b6775fad43b9732.JPG" group-title="LIVE",UEFA EURO 2024 (4)
+http://10.10.40.249:9981/stream/channel/0fe4178336170a96ae92575b067f8527?ticket=43cc81d1fda8d705f30c542f53735886d62a6d5f
+#EXTINF:-1 xui-id="25391" tvg-id="" tvg-name="CONMEBOL COPA AMERICA 2024" tvg-logo="http://www.goldentvtech.site:80/images/f25da2690d4648f46306261615bf2eb6.png" group-title="LIVE",CONMEBOL COPA AMERICA 2024
+http://10.10.40.249:9981/stream/channel/df79e8286546586d60bd07318218f4aa?ticket=92c2cc9f81d6d1abb73e148be550adb81345a5e9
+#EXTINF:-1 xui-id="25392" tvg-id="" tvg-name="CONMEBOL COPA AMERICA 2024 (2)" tvg-logo="http://www.goldentvtech.site:80/images/f25da2690d4648f46306261615bf2eb6.png" group-title="LIVE",CONMEBOL COPA AMERICA 2024 (2)
+http://10.10.40.249:9981/stream/channel/a1ada6fba7808d7b3b7ac8eed2c53d38?ticket=03070f2c182a0e14f3fbd603e353cde6d2e5c7ec
+
+
+===
+
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_bioskopindonesia_big1.png" group-title="MOVIES™",Bioskop Indonesia
+http://10.10.40.249:9981/stream/channel/66cbca038f3359042220bd53e675d754?ticket=8ac0dcbd0e4c289ac1babc8820a1cf7a0c50ceac
+#EXTINF:-1 xui-id="25980" tvg-id="Flik" tvg-name="Flik" tvg-logo="http://www.goldentvtech.site:80/images/a9bf542fb4804d4c035d23b473b030fd.png" group-title="MOVIES™",Flik
+http://10.10.40.249:9981/stream/channel/cf0c8e2d625ef9839ab6b9ce786b5f76?ticket=f30d55b0a9c515b3416443020643a54b0fdb71f3
+#EXTINF:-1 xui-id="25994" tvg-id="IMC" tvg-name="IMC" tvg-logo="http://www.goldentvtech.site:80/images/c25e870a6652ed0ff77b8d53bf75680a.png" group-title="MOVIES™",IMC
+http://10.10.40.249:9981/stream/channel/bb174e65b532510a208136296b1fa712?ticket=01739fc37c419fc96c53de7e519f195443c101a4
+#EXTINF:-1 xui-id="25977" tvg-id="CelestialMovies.MACAN" tvg-name="Celestial Movie" tvg-logo="http://www.goldentvtech.site:80/images/545da4ef156272730a6079cd7ff55947.png" group-title="MOVIES™",Celestial Movie
+http://10.10.40.249:9981/stream/channel/5b51abc914b56401c4347348b0401f48?ticket=29e7f536ab46b7eaf389b0872242d8774baf5804
+#EXTINF:-1 xui-id="25987" tvg-id="CCM.MACAN" tvg-name="CCM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png/revision/latest?cb=20190603053700" group-title="MOVIES™",CCM
+http://10.10.40.249:9981/stream/channel/9d86e6ef863ba867a98c0e748c4fe7c2?ticket=8734578d719e5fde87dab75429bf0b4b6a3ba57c
+#EXTINF:-1 xui-id="25986" tvg-id="ZeeBioskop.id" tvg-name="Zee Bioskop" tvg-logo="http://www.goldentvtech.site:80/images/a0868be4e009f90bbba8e11b7f69eafa.png" group-title="MOVIES™",Zee Bioskop
+http://10.10.40.249:9981/stream/channel/f787a3e25eefe3917c42bc59d2ef86c2?ticket=8feccdb32f349fa83f7e9e8aadb63d36de09cbe6
+#EXTINF:-1 xui-id="26007" tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="http://www.goldentvtech.site:80/images/9f4109b0351b0e0007c801a7496e6c45.png" group-title="MOVIES™",Rock Entertainmet
+http://10.10.40.249:9981/stream/channel/930516a498e01d072871d2c7415ebcc7?ticket=29d679ed4508f52ab545be21869f5c3b82ebf9dd
+#EXTINF:-1 xui-id="26007" tvg-id="My Cinema" tvg-name="My Cinema" tvg-logo="http://www.goldentvtech.site:80/images/9f4109b0351b0e0007c801a7496e6c45.png" group-title="MOVIES™",Rock Extreme
+http://10.10.40.249:9981/stream/channel/d2214901bfad3b2f89d6fae95f501360?ticket=30235c9dc070c7ea9f9aee322fa5ba5bb7eeb18d
+
+
+===
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein1_big1.png" group-title="Sports",BeinSport 1 Indonesia
+http://10.10.40.249:9981/stream/channel/230ce82dcbe4981d716e9bca87ab66af?ticket=3435ec89934929e0436c59854657dbd42bac61b1
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bein2_big1.png" group-title="Sports",BeinSport 3 Indonesia
+http://10.10.40.249:9981/stream/channel/d8a48c3b58a088dd1b02662a8d97b929?ticket=b2a502a2967e1142188837e694fcc9131706664e
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fight_big1.png" group-title="Sports",Fight Sport
+http://10.10.40.249:9981/stream/channel/2b6c8b9c4b0d251d3bcd6d6a471241fe?ticket=bbceaed988299739fe216b10065ba2f28746cd6f
+#EXTINF:-1 tvg-logo="https://i2.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png?fit=1467%2C549&ssl=1" group-title="Sports",HorizonSport
+http://10.10.40.249:9981/stream/channel/559551eae60bdc791b51c57e6ac3651d?ticket=1153735c7b7dc27b3671b0a8f9ad2043a3498549
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_nba_big1.png" group-title="Sports",NBA TV
+http://10.10.40.249:9981/stream/channel/07a297a7921df4413293748de0fb9080?ticket=0a33f8042090ae54eea7d2403e8fea9d472f7ddc
+#EXTINF:-1 xui-id="25017" tvg-id="SPOTV" tvg-name="Spo TV 1" tvg-logo="http://www.goldentvtech.site:80/images/68def51fc05d0b75c003e5599fcfc77d.png" group-title="Sports",SPO TV 1
+http://10.10.40.249:9981/stream/channel/f9f30288d9a77531c6292cdbd0532d49?ticket=11a1cea19081a0471ca5d31ac1fe3bc4a6534b19
+#EXTINF:-1 xui-id="25223" tvg-id="SCTV.id" tvg-name="Spo TV 2" tvg-logo="http://www.goldentvtech.site:80/images/68def51fc05d0b75c003e5599fcfc77d.png" group-title="Sports",SPO TV 2
+http://10.10.40.249:9981/stream/channel/27863aead74237ca770fd84e2a76d801?ticket=fffca11fe615e7b0cde5ad6840996d7442026372
+#EXTINF:-1 xui-id="25010" tvg-id="ASSP1.my" tvg-name="Astro Super Sport 1 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTct6hNBoxfRhbi4oIOHCSbscSmWExgP_GjDuXBImgicgCFbDpi" group-title="Sports",Astro Super Sport 1 FHD
+http://10.10.40.249:9981/stream/channel/7bafbce574a180094321d9abcb9e35f6?ticket=ed195817f52e6c0b88e478f2a8bda78dbd758e93
+#EXTINF:-1 xui-id="25011" tvg-id="ASSP2.my" tvg-name="Astro Super Sport 2 FHD" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ9tZr-j5w4gG0tZmdwTnEuDiFIq26y8LQZq4zSPf9YnKATYpW" group-title="Sports",Astro Super Sport 2 FHD
+http://10.10.40.249:9981/stream/channel/e5ae036ac369c351f1343c2721951375?ticket=3e34e4d98452a6abccf275c5d28b417a5fa89dae
+#EXTINF:-1 xui-id="25012" tvg-id="ASSP3.my" tvg-name="Astro Super Sport 3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBsKgV51S-ueY7ot8mI4w_NK8tbLjYdtvor6YKSMIjyiptJI0" group-title="Sports",Astro Super Sport 3 FHD
+http://10.10.40.249:9981/stream/channel/8f80b02af711e49ad59eae403dfe2a0c?ticket=40dceb9b6e1bb80d3fea0685bb7db22b49f9ef3e
+#EXTINF:-1 xui-id="25015" tvg-id="ASSP4.my" tvg-name="Astro Super Sport 4 FHD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJMibqL02eHk_dVL4iE6ny27s6Y43FbJ2TGAgqt9eCa75OygyQ" group-title="Sports",Astro Super Sport 4 FHD
+http://10.10.40.249:9981/stream/channel/270175d80ec764f4ddc00b3915643477?ticket=b305b5eda75b33187a656105d10356a95bcf92a9
+
+
+
+===
+
+#EXTINF:-1 xui-id="25481" tvg-id="DiscoveryChannelIndonesia.id" tvg-name="Discovery Channel" tvg-logo="http://www.goldentvtech.site:80/images/981adeae3ad4952ebbe1c07b743bce65.jpg" group-title="KNOWLEDGE™",Discovery Channel
+http://10.10.40.249:9981/stream/channel/bfd68d1b572dece5cf5270107a234781?ticket=21e8fcb1b57139257a19657e933040f6fdb56584
+#EXTINF:-1 xui-id="25482" tvg-id="ABCAustralia.au" tvg-name="Crime Investigation" tvg-logo="http://www.goldentvtech.site:80/images/c4c132594d22dd78c3752439447ca55c.png" group-title="KNOWLEDGE™",Crime Investigation
+http://10.10.40.249:9981/stream/channel/970d945c16931170b32ca788e600355f?ticket=d46880e1070b4a065eb6c2ca93f53a3183f0f680
+#EXTINF:-1 xui-id="25484" tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="http://www.goldentvtech.site:80/images/dd44b8f7d1f2572a29404c024f14b98c.png" group-title="KNOWLEDGE™",History
+http://10.10.40.249:9981/stream/channel/4215d7229ad3c7f68373c7948a0d101b?ticket=ae2934623797e7a6612f4f7e1d887b49eaad2da0
+#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/cUQ6TqQm7TQFIA4VU1NRLKVNNDAHSbEUBo13hvRC.png" group-title="KNOWLEDGE™",Tech Strom
+http://10.10.40.249:9981/stream/channel/6dd94d5bbfc446d3563120f8e8b624b2?ticket=e9906a39e2496c1acb7ba609fdc4edaaf4613980
+
+
+
+===
+#EXTINF:-1 xui-id="26056" tvg-id="" tvg-name="Hoore" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS™",FunPlanet
+http://10.10.40.249:9981/stream/channel/b54f4daadbdc7ff8dc9d2f599086cd27?ticket=f65837f5a1695231da935b0ac44d78150b51e67c
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="KIDS™",Mentari TV 
+http://10.10.40.249:9981/stream/channel/008a503be1caef8ae6e469b2903e35f4?ticket=7b045981999239e4146ca96a8163d17efebf6ed3
+#EXTINF:-1 xui-id="26056" tvg-id="" tvg-name="Hoore" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS™",Hoore
+http://10.10.40.249:9981/stream/channel/92246f96f5380028ec46713ca3a0b8f0?ticket=22206ecb3f1a05fc8605e82b486f4e93e2325d6b
+#EXTINF:-1 xui-id="26061" tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS™",Dunia Anak
+http://10.10.40.249:9981/stream/channel/20fc020096fc2107dd970c43d2b3942c?ticket=5235b9c612a07ba4063dd805339b9bca963d7b40
+
+
+===
+
+#MUSIC
+#EXTINF:-1 xui-id="44983" tvg-id="" tvg-name="Tembang Kenangan" tvg-logo="http://www.goldentvtech.site:80/images/da5edbef7dec3752e150779fb5477bdd.png" group-title="MUSIC",Tembang Kenangan
+http://10.10.40.249:9981/stream/channel/ab6bfaf5f4fab52760c8a4bc35de034c?ticket=0d088cd93ac03e7eee62f60fb3132e2ba0485629
+#EXTINF:-1 xui-id="44984" tvg-id="" tvg-name="mp3 Musik Indonesia" tvg-logo="http://www.goldentvtech.site:80/images/dde856948c01178f27d6680e0e1fff66.jpeg" group-title="MUSIC",mp3 Musik Indonesia
+http://10.10.40.249:9981/stream/channel/9c25ca119dd6656a3004e14daf4e0960?ticket=77a78dcf3cff70ed2aa58b28ca03c28a5546258c
+#EXTINF:-1 xui-id="45093" tvg-id="" tvg-name="Lagu Daerah Indonesia" tvg-logo="http://www.goldentvtech.site:80/images/8029f084daef68b3bfeefea6c1df9adb.jpeg" group-title="MUSIC",Lagu Daerah Indonesia
+http://10.10.40.249:9981/stream/channel/b1c2b47a69ae6b3c41ce544c13f7439d?ticket=4a6e1b6b912cae5440c1f3613be86e8cf32667f3
+
+
+===
+
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_alquran_big1.png" group-title="Religious",AlQuran Karim
+http://10.10.40.249:9981/stream/channel/b371e9f61cfcb1d61b256de0bf52ca8f?ticket=75ce9c54f80b96f77ad7ab34606ad389c6fa0d3f
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_mqtv_big1.png" group-title="Religious",MQTV
+http://10.10.40.249:9981/stream/channel/1cbc470af4a17dc97ffee44a2b38732e?ticket=5c081c6f3abd965978c40003b8f829b5b0105467
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_tv9_big1.png" group-title="Religious",TV9 NU
+http://10.10.40.249:9981/stream/channel/cf0f5477963a2b3402e0b0f5531c5606?ticket=056ba8dffc3b5ff0948743e7033ce2039125e3fc
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_muhammadiyahtv_big1.png" group-title="Religious",tvMu
+http://10.10.40.249:9981/stream/channel/50880f13a2a0297cc344af75ff261027?ticket=0ea6ac7c44de77165b2c1edac04c54f3749df24a
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_tawaftv_big.png" group-title="Religious",Tawaf TV
+http://10.10.40.249:9981/stream/channel/1ebec921219fcb432ec9c8f2b3a51a9a?ticket=3452bb1b7f659743c58a61730fed25f731fb633f
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_tvmui_big1.png" group-title="Religious",TV MUI
+http://10.10.40.249:9981/stream/channel/7fb2adc369c3a940018a4ae0c9a84ac5?ticket=c9b50883a453ae576f3cb8983e5cf8313145aa9e
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/logo_rodjatv_big1.png" group-title="Religious",Rodja TV
+http://10.10.40.249:9981/stream/channel/191f981f9fc7db8d09bf8234462eb7b6?ticket=297575e9f7b8e9c0cc0bc5bb6af7769f561fb1fe
+
+
+
+===
+
+#ALQUR'AN
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FATIHAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/1.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-BAQARAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-IMRAN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NISSA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MA'IDAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-AN'AM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-A'RAF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-ANFAL
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TAWBAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",YUNUS
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",HUD
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",YUSUF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AR-RA'D
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/13.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",IBRAHIM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HIJR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NAHL
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-ISRA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-KAHF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",MARYAM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",TAHA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/20.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-ANBYA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/21.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HAJJ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MU'MINUN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NUR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/24.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FURQON
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/25.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",ASH-SHU'ARA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NAML
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/27.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QASAS
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-'ANKABUT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/29.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AR-RUM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",LUQMAN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AS-SAJDAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/32.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-AHZAB
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",SABA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/34.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",FATIR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",YA-SIN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/36.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AS-SAFFAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",SAD
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AZ-ZUMAR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/39.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",GHAFIR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",FUSSILAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/41.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",ASH-SHURAA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AZ-ZUKRUF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AD-DHUKAN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/44.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-JATHIYAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/45.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-AHQAF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/46.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",MUHAMMAD
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/47.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FATH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/48.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HUJURAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/49.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",QAF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/50.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",ADH-DHARIYAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/51.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TUR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/52.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NAJM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/53.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QAMAR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AR-RAHMAN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/55.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-WAQI'AH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/56.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HADID
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/57.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUJADILA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/58.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HASHR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/59.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUMTAHANAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/60.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AS-SAF
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/61.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-JUMU'AH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/62.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUNAFIQUN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/63.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TAGHABUN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/64.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TALAQ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/65.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TAHRIM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/66.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MULK
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/67.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QALAM
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/68.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HAQQAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/69.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MA'ARIJ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/70.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",NUH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/71.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-JINN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/72.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUZZAMMIL
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUDDATHTHIR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/74.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QIYAMAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/75.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-INSAN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/76.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MURSALAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/77.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NABA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/78.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NAZI'AT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/79.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",'ABASA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/80.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TAKWIR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/81.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-INFITAR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/82.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MUTAFFIFIN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/83.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-INSHIQAQ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/84.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-BURUJ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/85.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TARIQ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/86.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-A'LA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/87.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-GHASIYAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FAJR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-BALAD
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/90.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",ASH-SHAMS
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/91.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-LAYL
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/92.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AD-DUHAA
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/93.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",ASH-SHARH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/94.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TIN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/95.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-'ALAQ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/96.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QADR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/97.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-BAYYINAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/98.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AZ-ZALZALAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/99.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-'ADIYAT
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/100.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-QARI'AH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/101.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AT-TAKATHUR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/102.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-'ASHR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/103.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-HUMAZAH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/104.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FIL
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/105.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",QURAYSH
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/106.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MA'UN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/107.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-KAWTHAR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/108.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-KAFIRUN
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NASR
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/110.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-MASAD
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/111.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-IKHLAS
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/112.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AL-FALAQ
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/113.mp3
+#EXTINF:-1 tvg-logo="https://freesvg.org/img/1617121917logo%20quran%20islamic.png" group-title="MURATTAL",AN-NAS
+https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/114.mp3
+
+===
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdurrahman Al Sudais" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdurrahman Al Sudais
+https://qurango.net/radio/abdulrahman_alsudaes
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mishary Rashid Al-Afasy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mishary Rashid Al-Afasy
+https://qurango.net/radio/mishary_alafasi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saad Al Ghamidi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Saad Al Ghamidi
+https://qurango.net/radio/saad_alghamdi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Jaber" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Ali Jaber
+https://qurango.net/radio/ali_jaber
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mohammed Ayyoub" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mohammed Ayyoub
+https://qurango.net/radio/mohammed_ayyub
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Saud Al Shuraim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Saud Al Shuraim
+https://qurango.net/radio/saud_alshuraim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nabil Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Nabil Ar Rifa'i
+https://qurango.net/radio/nabil_al_rifay
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hani Ar Rifa'i" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Hani Ar Rifa'i
+https://qurango.net/radio/hani_arrifai
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nasser Al Qatami" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Nasser Al Qatami
+https://qurango.net/radio/nasser_alqatami
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yasser Ad Dossary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Yasser Ad Dossary
+https://qurango.net/radio/yasser_aldosari
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abu Bakr Al Shatri" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abu Bakr Al Shatri
+https://qurango.net/radio/shaik_abu_bakr_al_shatri
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Maher Al Muaeqaly" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Maher Al Muaeqaly
+https://qurango.net/radio/maher_al_meaqli
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdul Mohsen Al-Qasim" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdul Mohsen Al-Qasim
+https://qurango.net/radio/abdulmohsen_alqasim
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ali Al-Hudzaifi" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Ali Al-Hudzaifi
+https://qurango.net/radio/ali_alhuthaifi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mahmoud Khalil Al-Hussary" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Mahmoud Khalil Al-Hussary
+https://qurango.net/radio/mahmoud_khalil_alhussary
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abdullah Al-Mathrood" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Abdullah Al-Mathrood
+https://qurango.net/radio/abdullah_almattrod
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khalifa Al-Tunaijjiy" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Khalifa Al-Tunaijjiy
+https://qurango.net/radio/khalifa_altunaiji
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Idris Akbar" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Idris Akbar
+https://qurango.net/radio/idrees_abkr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Salah Bukhatir" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Salah Bukhatir
+https://qurango.net/radio/slaah_bukhatir
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fares Abbad" tvg-logo="https://i.ibb.co/phM9BJ2/mp3quran.png" group-title="Murottal 24/7",Fares Abbad
+https://qurango.net/radio/fares_abbad
+
+
+
+<=========================================== TVRI Group =========================================>
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="TVRI Group",TVRI Nasional
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional-avc1_1500000=10003-mp4a_96000_eng=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrijtown.jpg" group-title="TVRI Group",TVRI Jakarta
+https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="TVRI Group",TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="TVRI Group",TVRI Sport HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/maluku.png" group-title="TVRI Group",TVRI Ambon
+https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvribali.png" group-title="TVRI Group",TVRI Bali
+https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/bangka.png" group-title="TVRI Group",TVRI Bangka Belitung
+https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/bengkulu.png" group-title="TVRI Group",TVRI Bengkulu
+https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_1500000=10007-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/gorontalo.png" group-title="TVRI Group",TVRI Gorontalo
+https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_barat.png" group-title="TVRI Group",TVRI Jawa Barat
+https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jambi.png" group-title="TVRI Group",TVRI Jambi
+https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_tengah.png" group-title="TVRI Group",TVRI Jawa Tengah
+https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/jawa_timur.png" group-title="TVRI Group",TVRI Jawa Timur
+https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_1500000=10008-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalbar.png" group-title="TVRI Group",TVRI Kalimantan Barat
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_1500000=10006-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalsel.png" group-title="TVRI Group",TVRI Kalimantan Selatan
+https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kalteng.png" group-title="TVRI Group",TVRI Kalimantan Tengah
+https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/kaltim.png" group-title="TVRI Group",TVRI Kalimantan Timur
+https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_1500000=10005-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/lampung.png" group-title="TVRI Group",TVRI Lampung
+https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/aceh.png" group-title="TVRI Group",TVRI Aceh
+https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/ntb.png" group-title="TVRI Group",TVRI NTB
+https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/ntt.png" group-title="TVRI Group",TVRI NTT
+https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI Group",TVRI Papua
+https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/riaubaru.png" group-title="TVRI Group",TVRI Riau
+https://ott-balancer.tvri.go.id/live/eds/Riau/hlstl/Riau-avc1_1500000=10003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulbar.png" group-title="TVRI Group",TVRI Sulawesi Barat
+https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulsel.png" group-title="TVRI Group",TVRI Sulawesi Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulteng.png" group-title="TVRI Group",TVRI Sulawesi Tengah
+https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulawesi_tenggra.png" group-title="TVRI Group",TVRI Sulawesi Tenggara
+https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sulawesi_utara.png" group-title="TVRI Group",TVRI Sulawesi Utara
+https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_2500000=10004-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumbar.png" group-title="TVRI Group",TVRI Sumatra Barat
+https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumsel.png" group-title="TVRI Group",TVRI Sumatra Selatan
+https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_1500000=10003-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/sumut.png" group-title="TVRI Group",TVRI Sumatra Utara
+https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_1500000=10003-mp4a_96000_eng=20002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/yogya.png" group-title="TVRI Group",TVRI Yogyakarta
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvripapua.png" group-title="TVRI Group",TVRI Papua Barat
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_1500000=10005-mp4a_96000_eng=20003.m3u8
+
+<=======================Local Channels===============>
+
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=21&kodegb=200px-Kilisuci_TV.png",Kilisuci TV Kediri
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/Logo_Madu_TV_2021.png",Madu TV
+https://v6.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 group-title="Local Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="Local Channels",Jawapos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",JPM TV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w448347974.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name=""  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" group-title="Local Channels",JPM TV Jakarta
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w57900395.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="Local Channels",Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 group-title="Local Channels" "" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png",Dhoho TV- Kediri
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="Local Channels",TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c7/Jambi_TV_2019.png" group-title="Local Channels",Jambi TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3e/Jek_TV_2011.png/revision/latest?cb=20180926161551" group-title="Local Channels",Jek TV
+http://61.8.64.138:1935/jektv/myStream/chunklist_w2015195040.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" group-title="Local Channels",Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://e7.pngegg.com/pngimages/132/406/png-clipart-logo-sumedang-regency-brand-design-blue-text.png" group-title="Local Channels",SMTV Sumedang
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" group-title="Local Channels",RCTV Cirebon
+https://63b2dc7196c38.streamlock.net:1937/ch9/myStream/chunklist_w1718673554.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Timor_TV.png" group-title="Local Channels",Timor TV
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="Local Channels",Atambua TV
+https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Padang_TV_2007.png" group-title="Local Channels",Padang TV
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sabanten.png" group-title="Local Channels",Sabanten - Banten
+https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://batamtv.com/wp-content/uploads/2021/06/logo-btv.png" group-title="Local Channels",Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/natuna.png" group-title="Local Channels",Natuna TV
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/anambas.png" group-title="Local Channels",Anambas TV
+https://63b2dc7196c38.streamlock.net:1937/anambas/myStream/chunklist_w1235165625.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/simpang5.png" group-title="Local Channels",Simpang 5 TV Semarang
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/btv.png" group-title="Local Channels",Balikpapan TV
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/pontianak.png" group-title="Local Channels",PON TV Pontianak
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="Local Channels",Singkawang TV
+https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/chunklist_w104533869.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="Local Channels",Sambas TV
+https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/chunklist_w2128698489.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/8/8a/-PadjadjaranTVLogo_Baru.jpg" group-title="Local Channels",PJTV Bandung
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/chunklist_w38627436.m3u8
+
+
+===
+
+
+#RADIO
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1347204809900789763/DkTxrw4W_400x400.jpg" group-title="RADIO",AKBAR FM
+https://stream-151.zeno.fm/wqjeh3f97z0vv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ3cWplaDNmOTd6MHZ2IiwiaG9zdCI6InN0cmVhbS0xNTEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlgyTXp4ck42UzNDRmJnTEVjT0k1YkEiLCJpYXQiOjE3MTY1MDkxNDgsImV4cCI6MTcxNjUwOTIwOH0.IaSpFurySwKcmEDkZWKVkr1Mxorj83EpoT5pUaQI8Rs
+#EXTINF:-1 tvg-logo="https://radio-online.id/assets/image/radio/180/prosalina-fm.jpg" group-title="RADIO",PROSALINA FM
+https://i.klikhost.com/8618/stream?1681984931153
+#EXTINF:-1 tvg-logo="https://k-radiojember.com/assets/upload/image/Logo.png" group-title="RADIO",K-RADIO JEMBER
+http://s3.vinhostmedia.com:9308/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/gnk6hxc9w2jv.jpg" group-title="RADIO",BINTANG TENGGARA
+http://asv.alhastream.com:3310/radio
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf9g9qGiDMshNgUsuSjoiytXn-eyqWec_rxQcdumODuZTHIfKNRmws-f3ERbqCyMCR1QI5-TgUEW-Q0KZQabTXYL4CdZsbQkpXiESc5nBGmc5OToeTt1LMwiMIXAT3zbJ8DxqmSEc0PCOc37-auIut8qm10yyljyoo4u4mJPm-gG6uMiCoC4ZyBuwmBCxs/s320/WhatsApp%20Image%202024-05-28%20at%2019.12.31%20(2).jpeg" group-title="RADIO",BAGASKARA FM
+https://stream.zeno.fm/xsiam0etvftvv
+#EXTINF:-1 tvg-logo="https://www.radiodahliafm.com/frontend/img/about/logo.png" group-title="RADIO",DAHLIA FM BANDUNG
+https://svara-stream.radioddns.net:8443/bandung_dahliafm
+#EXTINF:-1 tvg-logo="https://www.kissfmjember.com/wp-content/uploads/2021/03/Logo-962kissfm-jember.png" group-title="RADIO",KISS FM JEMBER
+https://i.klikhost.com/8894/stream/1/
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B7pB0n_oWms/XXz117A0BfI/AAAAAAAAHyk/KGCvBitfOjEp9vuPPEB0Xlf4QUzCPGaAACLcBGAsYHQ/s1600/Citra_fm_Bondowoso.jpg" group-title="RADIO",CITRA FM BONDOWOSO
+http://live.citrafmradio.com:9882/stream/1/
+#EXTINF:-1 tvg-logo="https://radiopinguinfm.com/images/logo.png" group-title="RADIO",PINGUIN FM DENPASAR
+https://live.radiopinguinfm.com:8350/;stream.mp3
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/qpzvhD3RrL.png" group-title="RADIO",RADIO DANGDUT INDONESIA
+http://202.147.199.99:8000/stream/1/
+#EXTINF:-1 tvg-logo="https://mtbfm.co.id/wp-content/uploads/2019/09/Logo-Square.jpg" group-title="RADIO",MTB FM SURABAYA
+https://a1.siar.us/listen/radiowidyaswara/radio.mp3?refresh=1716711427505
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-70a19kuWk08/XVree4Y-4fI/AAAAAAAAHpI/uvBUCRZknxsxgwOxY-jKQeXxzviwV0yEQCLcBGAs/s1600/Radio-Guntur-fm-Bali.png" group-title="RADIO",GUNTUR FM SINGARAJA
+https://pu.klikhost.com/proxy/guntur/stream
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LwwQwl_dcUo/V3TxWVyt0jI/AAAAAAAAEPM/Jj6VIxTTDjYKDH8f5MKfuigFwvVtiyGswCLcB/s1600/Matrix_FM_Ponorogo.jpg" group-title="RADIO",MATRIX FM PONOROGO
+http://live.radiomatrixfm.com:8000/;
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-r5odn4cQI9E/WTFzA0xfusI/AAAAAAAAFR4/mbFeulQRSeYUEF-TiwoMMiV4Gxdk_eNSACLcB/s1600/gemasurya_fm_ponotogo.jpg" group-title="RADIO",RGS PONOROGO
+https://r5.siar.us:9420/aac.m4a?_=1
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2021/11/Radio-Rama-Blitar-220x108.webp" group-title="RADIO",RAMA FM BLITAR
+http://i.klikhost.com:8846/;
+#EXTINF:-1 tvg-logo="https://radiogentara.com/wp-content/uploads/2017/01/20240112_045328_0000.png" group-title="RADIO",GENTARA-DGT KOPLO
+https://s1.gntr.net/listen/radio_gentara/gentara128
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-B7pB0n_oWms/XXz117A0BfI/AAAAAAAAHyk/KGCvBitfOjEp9vuPPEB0Xlf4QUzCPGaAACLcBGAsYHQ/s1600/Citra_fm_Bondowoso.jpg" group-title="RADIO",CITRA RADIO - KOPLO
+https://free.rcast.net/69714
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxCOzbAarr7ZV53hnnvi-ptIMgFuj0H-hksSFU-NVmMQ&s" group-title="RADIO",MENDHUT FM - JAWA
+http://c4.siar.us:8790/stream
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/-GE2dBa5B5wb_o5-HXU5a6x6rvqFpCjiLj-Y1DnRrpg0-v-t0zYPcxqIi22-VDgeZRk" group-title="RADIO",ADELLA KOPLO
+https://stream-159.zeno.fm/954yxsx00ehvv?zs=NGYHI8aIRpWIvgBawBlJuA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUb6J5oAWUGqAN_aXBpDJPU5penkOSjfmHBfiGnTbI0A&s" group-title="RADIO", RDI KOPLO
+https://stream-171.zeno.fm/5gawrnc6g0hvv?zs=0O5HQxwLSum4HzQTwbZE_A
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/4kU6XKQHap.png" group-title="RADIO",METTASWARA KOPLO
+https://mettaswara.com:8700/koplo
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s3jdKC9HKv.png" group-title="RADIO",METTASWARA JAWA KOEK
+https://mettaswara.com:8700/java
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/s3jdKC9HKv.png" group-title="RADIO",CAMPURSARI
+https://streaming.campursarifm.com/listen/campursari/campursari892
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTic8lRtNsuPGtEsBNMNR30xMOz9ByqQpkMPNUtNQ0vaQ&s" group-title="RADIO",DML MUSIK
+http://stream.denger.in:8888/dm
+#EXTINF:-1 tvg-logo="https://www.radio.net/images/broadcasts/11/33/3676/1/c300.png" group-title="RADIO",SLOW MUSIK
+https://stream-155.zeno.fm/dpk2zq5np2zuv?zs=CoOgYsTxTAastktuN4gJHw
+
+===
